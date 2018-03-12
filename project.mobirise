@@ -24,7 +24,8 @@
     },
     "versionFirst": "4.6.5",
     "uniqCompNum": 7,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
